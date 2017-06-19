@@ -1,0 +1,31 @@
+/************ GENRAL ************/
+body {
+	font-family: 'Open Sans', sans-serif;
+}
+
+#wrapper {
+	max-width: 940px;
+	margin: 0 auto;
+	padding: 0 5%;
+}
+
+a {
+	text-decoration: none;
+}
+
+img {
+	max-width: 100%;
+}
+
+h3{
+	margin: 0 0 1em 0;
+}
+
+/************ HEADING ************/
+
+header {
+	float: left;
+	margin: 0 0 30px 0;
+	padding: 5px 0 0 0;
+	width: 100%;
+}
